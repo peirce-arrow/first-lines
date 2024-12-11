@@ -3,32 +3,19 @@ layout: default
 ---
 
 
-Ah, wherefore with infection should he live,
-
-Weary with toil, I haste me to my bed,
-
-Like as the waves make towards the pebbled shore,
-
-From you have I been absent in the spring,
-
-My mistress’ eyes are nothing like the sun;
-
-I grant thou wert not married to my muse,
-
+Ah, wherefore with infection should he live,  
+Weary with toil, I haste me to my bed,  
+Like as the waves make towards the pebbled shore,  
+From you have I been absent in the spring,\
+My mistress’ eyes are nothing like the sun;\
+I grant thou wert not married to my muse,\
 If my dear love were but the child of state,
-
 Being your slave, what should I do but tend
-
 Whilst I alone did call upon thy aid,
-
 That thou hast her, it is not all my grief,
-
 Unthrifty loveliness, why dost thou spend
-
 When I do count the clock that tells the time
-
 In faith, I do not love thee with mine eyes,
-
 Shall I compare thee to a summer’s day?
 
 
@@ -126,7 +113,9 @@ Like as the waves make towards the pebbled shore,
 From you have I been absent in the spring,
 What is your substance, whereof are you made,
 If there be nothing new, but that which is
-<!--Text can be **bold**, _italic_, or ~~strikethrough~~.
+
+<!--
+Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
