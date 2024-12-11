@@ -16,7 +16,7 @@ That thou hast her, it is not all my grief,\
 Unthrifty loveliness, why dost thou spend\
 When I do count the clock that tells the time\
 In faith, I do not love thee with mine eyes,\
-Shall I compare thee to a summer’s day?\
+Shall I compare thee to a summer’s day?
 
 
 Or whether doth my mind, being crowned with you,\
@@ -32,7 +32,7 @@ A woman’s face with Nature’s own hand painted\
 Since brass, nor stone, nor earth, nor boundless sea\
 O, how much more doth beauty beauteous seem\
 Those parts of thee that the world’s eye doth view\
-In loving thee thou know’st I am forsworn,\
+In loving thee thou know’st I am forsworn,
 
 
 So is it not with me as with that muse\
@@ -48,7 +48,7 @@ But do thy worst to steal thyself away,\
 Is it for fear to wet a widow’s eye\
 Canst thou, O cruel, say I love thee not\
 Say that thou didst forsake me for some fault,\
-Alas, ’tis true, I have gone here and there\
+Alas, ’tis true, I have gone here and there
 
 
 My glass shall not persuade me I am old\
@@ -64,7 +64,7 @@ But wherefore do not you a mightier way\
 So oft have I invoked thee for my muse\
 When forty winters shall besiege thy brow\
 So shall I live, supposing thou art true,\
-Take all my loves, my love, yea, take them all.\
+Take all my loves, my love, yea, take them all.
 
 
 Thy glass will show thee how thy beauties wear,\
@@ -80,7 +80,7 @@ So, now I have confessed that he is thine\
 Lord of my love, to whom in vassalage\
 When in disgrace with fortune and men’s eyes,\
 Thou art as tyrannous, so as thou art,\
-No more be grieved at that which thou hast done.\
+No more be grieved at that which thou hast done.
 
 
 Sweet love, renew thy force. Be it not said\
@@ -96,7 +96,7 @@ Betwixt mine eye and heart a league is took,\
 Full many a glorious morning have I seen\
 My love is strengthened, though more weak in seeming;\
 Against my love shall be, as I am now,\
-Let not my love be called idolatry,\
+Let not my love be called idolatry,
 
 
 The forward violet thus did I chide:\
@@ -112,7 +112,7 @@ Weary with toil, I haste me to my bed,\
 Like as the waves make towards the pebbled shore,\
 From you have I been absent in the spring,\
 What is your substance, whereof are you made,\
-If there be nothing new, but that which is\
+If there be nothing new, but that which is
 
 <!--
 Text can be **bold**, _italic_, or ~~strikethrough~~.
